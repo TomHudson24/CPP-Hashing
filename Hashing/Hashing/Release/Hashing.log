@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\tomhu\source\repos\Hashing\Hashing\main.cpp(200,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomhu\source\repos\Hashing\Hashing\main.cpp(214,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  15 of 314 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Hashing.vcxproj -> C:\Users\tomhu\source\repos\Hashing\Release\Hashing.exe

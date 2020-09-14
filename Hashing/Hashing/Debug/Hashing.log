@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\tomhu\source\repos\Hashing\Hashing\main.cpp(156,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomhu\source\repos\Hashing\Hashing\main.cpp(170,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomhu\source\repos\Hashing\Hashing\main.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+  Hashing.vcxproj -> C:\Users\tomhu\source\repos\Hashing\Debug\Hashing.exe
